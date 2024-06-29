@@ -6,7 +6,8 @@ This project encompasses a suite of AI agents designed to assist users in variou
 these agents provide capabilities such as security analysis, technical indicator retrieval, Uniswap trading, social media monitoring, on-chain data exploration, 
 and more. 
 
-## Screenshots of the Agents in action
+## Screenshots of the agents in action
+
 1. ### ClimB0t - 
 ![ClimB0t](/Images/climbot.png)
 
