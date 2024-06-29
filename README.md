@@ -24,6 +24,9 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
     1. generator
     2. google-search
     3. scraping
+ - ##### Screenshot of the model in action
+    ![ClimB0t](/Images/climbot.png)
+
 
 ## Screenshots of some of the the agents in action
 
