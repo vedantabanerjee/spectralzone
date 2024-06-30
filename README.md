@@ -4,7 +4,7 @@
 
 In this project, I have made a suite of 10 unique AI agents using syntax. These agents are designed to assist users in various aspects of crypto and blockchain technology. Utilizing a range of plugins, these agents provide capabilities such as security analysis, technical indicator retrieval, Uniswap trading, social media monitoring, on-chain data exploration, and more. 
 
-## Description of agents
+## Description and Screenshot of agents
 
 ### 1. ClimB0t
 #### Behaviour 
