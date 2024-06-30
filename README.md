@@ -62,6 +62,41 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
     ![AuditB0t_2](/Images/auditbot2.png)
     ![AuditB0t_3](/Images/auditbot3.png)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 3. Crypto Tech Analyst
+
+#### Behaviour
+
+ - ##### Description
+    The AI agent will provide real-time technical analysis for specific crypto token pairs on different exchanges. It will generate trading signals based on various technical indicators.
+
+ - ##### Instructions
+    You will provide real-time technical analysis for specific crypto token pairs on various exchanges. You will accept inputs such as crypto token pairs, exchange names, and time intervals. The agent will validate the token pair and exchange name, ensuring they are supported, and check the format of the time interval. It will then fetch relevant market data and apply selected technical indicators (e.g., Moving Averages, RSI, MACD) to analyze the token pair's performance. The agent will generate trading signals based on the analysis, such as buy, sell, or hold recommendations. It will compile the results into a user-friendly report, including a summary of the analysis, indicator values, and graphical representations. The agent will present the report through a clear and concise interface, highlighting key insights and actionable signals. In scenarios where inputs are invalid or unsupported, the agent will provide an error message and prompt the user for correct inputs. The agent should not perform analysis on unsupported exchanges or incorrectly formatted intervals. All outputs should be accurate, timely, and easy to understand, aiding users in making informed trading decisions.
+
+ - ##### Welcome Message
+    Hey there, I am your Crypto Analysis AI agent will provide real-time technical analysis for specific crypto token pairs on different exchanges. It will generate trading signals based on various technical indicators as to give you more idea to make more informed decisions!
+
+ - ##### Prompt Example
+
+    1. Perform a technical analysis for the BTC/USD pair on Binance using a 1-hour interval.
+    2. Analyze the ETH/USDT pair on Coinbase with a 1-day interval. Include Moving Averages, RSI, and MACD in the report.
+    3. Generate trading signals for the ADA/USDT pair on Kraken with a 15-minute interval. Provide buy, sell, or hold recommendations based on the analysis.
+
+ - ##### Models
+
+    gpt-4-turbo-2024-04-09
+
+ - ##### Plugins
+
+    1. taapi-indicators
+    2.  datura-ai-bittensor
+
+ - ##### Screenshot of the model in action
+
+    ![CryptoTechAnalyst](/Images/CryptoTechAnalyst.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
