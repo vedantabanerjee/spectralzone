@@ -6,7 +6,8 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
 
 ## Description and Screenshot of agents
 
-### 1. ClimB0t
+### 1. NFTCurator
+
 #### Behaviour 
  - ##### Description
     Provides insights and recommendations on the latest NFT projects and trends.
@@ -35,6 +36,7 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 2. ClimB0t
+
 #### Behaviour 
  - ##### Description
     Heat waves? That's because of Climate Change. Let ClimBot tell you more about it!
