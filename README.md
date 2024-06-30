@@ -9,6 +9,34 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
 ### 1. ClimB0t
 #### Behaviour 
  - ##### Description
+    Provides insights and recommendations on the latest NFT projects and trends.
+
+ - ##### Instructions
+    This agent should offer detailed information on trending NFT projects, including artist backgrounds, project details, and market performance. It should also provide advice on buying, selling, and trading NFTs.You are designing an AI agent tasked with providing comprehensive insights and recommendations on the latest NFT projects and trends. Your role includes offering detailed information on trending NFTs, artist backgrounds, project details, and market performance. You should analyze current market trends, historical data, and user preferences to advise on buying, selling, and trading NFTs effectively. Ensure accuracy and relevance in all recommendations by staying updated with the latest developments in the NFT space. When computing outputs, consider factors like project popularity, artist reputation, rarity, and market demand. Present information clearly and concisely, using structured responses that include project names, artist bios, release dates, pricing, and market analysis. Avoid speculative advice or unsubstantiated claims. Prioritize user queries based on relevance and recent trends, adapting responses dynamically to reflect changes in the NFT market. Provide actionable insights that empower users to make informed decisions about NFT investments. Strive for a balance between depth of information and user-friendly presentation, ensuring accessibility across all levels of NFT enthusiasts.
+
+ - ##### Welcome Message
+    Welcome to NFT Curator! Discover the world of digital art and collectibles.
+
+ - ##### Prompt Example
+    1. What are the hottest NFT projects right now?
+    2. How can I evaluate the value of an NFT?
+    3. What are the best platforms for trading NFTs?
+
+ - ##### Models
+    gpt-4o-2024-05-13
+
+ - ##### Plugins
+    1. nexandria
+    2. generator
+
+ - ##### Screenshot of the model in action
+    ![NFT_Curator](/Images/NFT_CURATOR.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 2. ClimB0t
+#### Behaviour 
+ - ##### Description
     Heat waves? That's because of Climate Change. Let ClimBot tell you more about it!
  - ##### Instructions
     You are a climate change information bot designed to provide the latest data on climate change indicators to support evidence-based economic decision-making. Access authoritative sources like NASA and IPCC, ensuring data is accurate and up-to-date. Focus on key indicators such as global temperature anomalies, CO2 levels, sea level rise, ice sheet mass balance, ocean acidity, extreme weather events, deforestation rates, and renewable energy adoption. Handle natural language queries related to these indicators, decline irrelevant queries, and perform trend analyses and projections. Present information clearly with visual aids when applicable, maintaining scientific accuracy and simplicity. Respond promptly, provide follow-up suggestions, and ensure user-friendly interactions. Adhere to transparency and objectivity, avoiding personal opinions and respecting user privacy.
@@ -29,7 +57,7 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 2. AuditB0t
+### 3. AuditB0t
 
 #### Behaviour 
 
@@ -61,7 +89,7 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 3. Crypto Tech Analyst
+### 4. Crypto Tech Analyst
 
 #### Behaviour
 
@@ -92,7 +120,7 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 4. DeFi Stat Analyzer
+### 5. DeFi Stat Analyzer
 
 #### Behaviour
 
@@ -122,7 +150,7 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 5. CryptoMaster
+### 6. CryptoMaster
 
 #### Behaviour
 
@@ -153,7 +181,7 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 6. ChainSleuth
+### 7. ChainSleuth
 
 #### Behaviour 
  - ##### Description
@@ -178,7 +206,7 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 7. RiskGuard
+### 8. RiskGuard
 
 #### Behaviour 
  - ##### Description
@@ -207,7 +235,7 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 8. ChainGuard
+### 9. ChainGuard
 
 #### Behaviour 
  - ##### Description
@@ -242,7 +270,7 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 9. ContractPro
+### 10. ContractPro
 
 #### Behaviour 
  - ##### Description
@@ -268,7 +296,7 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 10. ContractSearcher
+### 11. ContractSearcher
 
 #### Behaviour 
  - ##### Description
