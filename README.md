@@ -294,13 +294,3 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ClimB0t
-
-#### Behaviour 
- - ##### Description
- - ##### Instructions
- - ##### Welcome Message
- - ##### Prompt Example
- - ##### Models
- - ##### Plugins
- - ##### Screenshot of the model in action
