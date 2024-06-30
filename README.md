@@ -27,6 +27,8 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
  - ##### Screenshot of the model in action
     ![ClimB0t](/Images/climbot.png)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 2. AuditB0t
 
 #### Behaviour 
@@ -56,17 +58,12 @@ In this project, I have made a suite of 10 unique AI agents using syntax. These 
     2. quick-intel
 
  - ##### Screenshot of the model in action
-    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-    <div>
-        <img src="/Images/auditbot1.png" alt="AuditB0t_1" style="width: 100%;">
-    </div>
-    <div>
-        <img src="/Images/auditbot2.png" alt="AuditB0t_2" style="width: 100%;">
-    </div>
-    <div>
-        <img src="/Images/auditbot3.png" alt="AuditB0t_3" style="width: 100%;">
-    </div>
-</div>
+    ![AuditB0t_1](/Images/auditbot1.png)
+    ![AuditB0t_2](/Images/auditbot2.png)
+    ![AuditB0t_3](/Images/auditbot3.png)
+
+
+
 
 ## Screenshots of some of the the agents in action
 
